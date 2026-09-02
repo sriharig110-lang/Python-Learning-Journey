@@ -9,8 +9,8 @@ following a 16-week self-study plan (20+ hrs/week).
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Python & NumPy/Pandas foundations | 🔄 In progress |
-| 2 | Data visualization + math intuition | ⬜ Upcoming |
+| 1 | Python & NumPy/Pandas foundations | ✅ Completed |
+| 2 | Data visualization + math intuition | 🔄 Upcoming |
 | 3 | Git, consolidation | ⬜ Upcoming |
 | 4–7 | Core ML (scikit-learn) | ⬜ Upcoming |
 | 8–11 | Deep learning (PyTorch, Hugging Face) | ⬜ Upcoming |
